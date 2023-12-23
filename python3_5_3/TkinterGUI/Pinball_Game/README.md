@@ -1,3 +1,4 @@
-Pinball Game\r
+﻿Pinball Game
 這遊戲是擋板+球來回接球遊戲
 也是初學者很好的練習範本。
+我也想知道為甚麼換行要這麼麻煩XDD
